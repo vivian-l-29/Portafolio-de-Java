@@ -8,4 +8,4 @@ Interfaz del programa
 
 ## Instrucciones
 
-Copila el programa utilizando la versión java 18 y seleciona las opciones utilizando números enteros.
+Copila el programa utilizando la versión java 18 y selecciona las opciones utilizando números enteros.
