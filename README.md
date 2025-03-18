@@ -1,4 +1,4 @@
-# Proyect JAVA
+# Project JAVA
 Presentacion de mis proyectos con JAVA SE versión 18 
 Interfaz del programa
 
